@@ -35,6 +35,6 @@
 	
 	define('GREETING2',"welcome to ranchy's php study again");
 	
-	echo GREETING2;	
+	echo greeting2;	
 
 ?>
